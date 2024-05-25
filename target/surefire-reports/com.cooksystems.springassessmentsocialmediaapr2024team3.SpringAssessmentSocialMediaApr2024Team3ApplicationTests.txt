@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cooksystems.springassessmentsocialmediaapr2024team3.SpringAssessmentSocialMediaApr2024Team3ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.940 s -- in com.cooksystems.springassessmentsocialmediaapr2024team3.SpringAssessmentSocialMediaApr2024Team3ApplicationTests
